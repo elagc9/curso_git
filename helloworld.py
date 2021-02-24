@@ -3,3 +3,6 @@ print("Next example: add new code:\n")
 print("New code added\n")
 Fallo eliminado. Good job man!
 
+function contarx (x)
+	for y in range(x):
+		print(x)
